@@ -1,0 +1,72 @@
+body{
+
+    text-align: center;
+    margin:10%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    color: rgb(12, 12, 12);
+    
+    background-image: url("./img/48d16a1f6e1fcbcfc7228ca6bdbbc642.webp");
+    background-size: 80%;
+    
+}
+
+.alpha{
+    
+    border: 1.6px solid rgb(8, 8, 8);
+    padding: 4%;
+    border-radius: 1.5%;
+    width: 60%;
+    height: 40%;
+    margin-left: 20%;
+    text-align: center;
+    background: rgba(221, 221, 221, 0.6);
+    background-image: url("./img/msg.png");
+    background-repeat: no-repeat;
+   
+    
+
+}
+
+input[type="text"],
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="text"],
+input[type="text"],
+textarea{
+
+    width: 50%;
+    border: 1px solid black;
+    padding: 0.5%;
+    margin-left: 50%;
+    margin-top: 1%;
+   
+}
+
+h1{
+color: rgb(25, 82, 23);
+margin-left: 5%;
+  
+}
+
+.c1{
+
+    border: 1px solid cornflowerblue;
+    background-color: royalblue;
+    border-radius: 6px;
+    padding:5px;
+    width: 51.5%;
+    margin-left: 50%;
+    margin-top: 1%;
+    font-size: medium;
+    color: white;
+    
+
+}
+
+.c1:hover{
+
+    background-color:darkblue;
+    color: white;
+}
